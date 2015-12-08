@@ -1,0 +1,4 @@
+requests>=2.7.0
+pyttsx>=1.1
+pyserial>=2.7
+selenium>=2.48.0
